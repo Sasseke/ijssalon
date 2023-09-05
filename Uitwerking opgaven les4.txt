@@ -1,0 +1,12 @@
+Opgave 1
+je 'trekt' alles van Github naar jouw computer
+
+Opgave 2
+Je kloont je map into VS code
+
+Opgave 3
+git add .
+git commit "Bugs opgelost"
+git push
+
+Opgave 4
